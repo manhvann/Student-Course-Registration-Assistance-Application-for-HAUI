@@ -1,0 +1,2 @@
+DTT001,SV002,IT6006,Cơ sở dữ liệu,Học vượt,SV002,Nguyễn Văn Mạnh,Hệ thống thông tin,Chưa duyệt
+DTT002,SV002,IT6055,Thực tập cơ sở ngành,Học cải thiện,SV003,Nguyễn Hồng Phúc,Hệ thống thông tin,Không có lớp nào được mở

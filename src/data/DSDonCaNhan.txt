@@ -1,0 +1,11 @@
+DCN008,SV002,IT6034,Tích hợp hệ thống phần mềm,h,Không có lớp nào được mở
+DCN007,SV002,IT6002,Cấu trúc dữ liệu và giải thuật,học vượt,Không có lớp nào được mở
+DCN009,SV002,IT6022,Lập trình web bằng PHP,h,Không có lớp nào được mở
+DCN004,SV001,IT6006,Cơ sở dữ liệu,hoc,Không có lớp nào được mở
+DCN003,SV001,IT6039,Thiết kế Web,hoc,Không có lớp nào được mở
+DCN014,SV001,IT6014,Kiến trúc máy tính,học vượt,Không có lớp nào được mở
+DCN006,SV002,IT6039,Thiết kế Web,k,Không có lớp nào được mở
+DCN011,SV002,IT6028,Phát triển ứng dụng Game,df,Không có lớp nào được mở
+DCN010,SV002,IT6059,Thực tập chuyên ngành Hệ thống thông tin,23,Chưa duyệt
+DCN013,SV002,IT6014,Kiến trúc máy tính,học vượt,Không có lớp nào được mở
+DCN012,SV002,IT6044,Ứng dụng thuật toán,ae,Chưa duyệt

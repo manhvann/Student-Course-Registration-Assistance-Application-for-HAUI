@@ -1,0 +1,65 @@
+KCNTT,HTTT,IT6011,Nhập môn về kỹ thuật,2
+KCNTT,HTTT,IT6006,Cơ sở dữ liệu,3
+KCNTT,HTTT,IT6014,Kiến trúc máy tính,3
+KCNTT,HTTT,IT6015,Kỹ thuật lập trình,3
+KCNTT,HTTT,IT6039,Thiết kế Web,3
+KCNTT,HTTT,IT6002,Cấu trúc dữ liệu và giải thuật,3
+KCNTT,HTTT,IT6012,Hệ quản trị cơ sở dữ liệu,3
+KCNTT,HTTT,IT6018,Lập trình hướng đối tượng,3
+KCNTT,HTTT,IT6025,Nguyên lý hệ điều hành,3
+KCNTT,HTTT,IT6082,Nhập môn công nghệ phần mềm,3
+KCNTT,HTTT,IT6055,Thực tập cơ sở ngành,3
+KCNTT,HTTT,IT6023,Mạng máy tính,3
+KCNTT,HTTT,IT6097,Phân tích và đặc tả yêu cầu phần mềm,3
+KCNTT,HTTT,IT6043,Trí tuệ nhân tạo,3
+KCNTT,HTTT,IT6001,An toàn và bảo mật thông tin,3
+KCNTT,HTTT,IT6096,Thiết kế phần mềm,3
+KCNTT,HTTT,IT6033,Quản lý dự án công nghệ thông tin,3
+KCNTT,HTTT,IT6032,Phương pháp số trong lập trình,3
+KCNTT,HTTT,IT6036,Tối ưu hóa,3
+KCNTT,HTTT,IT6007,Cơ sở lập trình nhúng,3
+KCNTT,HTTT,IT6010,Đồ họa máy tính,3
+KCNTT,HTTT,IT6057,Phát triển ứng dụng thương mại điện tử,3
+KCNTT,HTTT,IT6056,Quản trị mạng trên hệ điều hành Windows,3
+KCNTT,HTTT,IT6044,Ứng dụng thuật toán,3
+KCNTT,HTTT,IT6017,Lập trình .NET,3
+KCNTT,HTTT,IT6013,Kiểm thử phần mềm,3
+KCNTT,HTTT,IT6019,Lập trình Java,3
+KCNTT,HTTT,IT6059,Thực tập chuyên ngành Hệ thống thông tin,3
+KCNTT,HTTT,IT6058,Hệ hỗ trợ quyết định,3
+KCNTT,HTTT,IT6034,Tích hợp hệ thống phần mềm,3
+KCNTT,HTTT,IT6004,Công nghệ đa phương tiện,3
+KCNTT,HTTT,IT6061,Hệ quản trị doanh nghiệp điện tử,3
+KCNTT,HTTT,IT6060,Lập trình hệ thống nhúng và Internet vạn vật,3
+KCNTT,HTTT,IT6020,Lập trình Java nâng cao,3
+KCNTT,HTTT,IT6021,Lập trình Web bằng ASP.NET,3
+KCNTT,HTTT,IT6022,Lập trình web bằng PHP,3
+KCNTT,HTTT,IT6030,Phần mềm mã nguồn mở,3
+KCNTT,HTTT,IT6028,Phát triển ứng dụng Game,3
+KCNTT,HTTT,IT6029,Phát triển ứng dụng trên thiết bị di động,3
+KNN,TA,TA001,Tiếng Anh,3
+KNN,TA,TA002,Tiếng Anh,3
+qq,n,3,3,3
+qq,n,4,4,4
+qq,w,1,1,1
+qq,n,3,7,3
+KNN,TA,TA001,Tiếng Việt,30
+KDT,NKT,HP001,Kiểm tra tài chính,3
+KDT,NKT,HP002,Doanh nghiệp,7
+KDT,NDien,HPTT,thựa hành điện,3
+KDT,NDien,TT,Toán,2
+KDT,NDien,2,2,2
+KDT,NKT,22,22,22
+KDT,NDien,33,33,33
+KDT,NKTPM,222,2222,2222
+KCNTT,66,22FRG,2,33
+KCNTT,44,5,5,5
+KCNTT,44,6,6,6
+g,7,55,55,55
+g,8,199,1,1
+g,888,66,66,66
+KCNTT,CNTT,IT7000,Kiểm thử phần mềm test,3
+KCNTT,CNTT,a,a,3
+KDT,DTVTt,z,a,3
+KDT,DTVTt,q,q,3
+KDT,DTVTt,qq,q,3

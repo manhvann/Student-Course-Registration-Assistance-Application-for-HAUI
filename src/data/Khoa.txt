@@ -1,0 +1,4 @@
+KCNTT,Công nghệ thông tin
+KDT,Điện tử
+KNN,Ngoại Ngữ
+KDL,Du lịch

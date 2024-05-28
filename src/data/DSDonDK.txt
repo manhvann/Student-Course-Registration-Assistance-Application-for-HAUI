@@ -1,0 +1,7 @@
+DTT001,SV001,IT6006,Cơ sở dữ liệu,Tập thể,Chưa duyệt,3
+DTT002,SV001,IT6020,Lập trình Java nâng cao,Chưa duyệt,3
+DONDK10,SV001,IT6044,Ứng dụng thuật toán,Chưa duyệt,1
+DONDK11,SV002,IT6017,Lập trình .NET,Chưa duyệt,1
+DONDK12,SV002,IT6013,Kiểm thử phần mềm,Chưa duyệt,1
+DONDK13,SV001,IT6059,Thực tập chuyên ngành Hệ thống thông tin,Chưa duyệt,1
+DONDK14,SV003,IT6058,Hệ hỗ trợ quyết định,Chưa duyệt,1

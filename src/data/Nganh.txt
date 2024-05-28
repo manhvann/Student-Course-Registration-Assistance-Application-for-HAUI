@@ -1,0 +1,11 @@
+HTTT,Hệ thống thông tin,KCNTT
+CNTT,Công nghệ thông tin,KCNTT
+KTPM,Kỹ thuật phần mềm,KCNTT
+KHMT,Khoa học máy tính,KCNTT
+TA,Tieng Anh,KNN
+TT,Tieng Trung,KNN
+TMDT,Thương mại điện tử,KCNTT
+ATBM,An toàn bảo mật,KCNTT
+DTVT,Điện tử viễn thông,KDT
+ANM,An ninh mạng,KCNTT
+DTVTt,Điện tử viễn thông,KDT

@@ -1,0 +1,4 @@
+D01,IT6011,Nhập môn về kỹ thuật,Cá nhân,Đã duyệt
+D02,IT6006,Cơ sở dữ liệu,Cá nhân,Chưa duyệt
+D03,IT6014,Kiến trúc máy tính,Cá nhân,Chưa duyệt
+D04,IT6015,Kỹ thuật lập trình,Tập thể,Đã duyệt
